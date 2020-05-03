@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F3C331</color>
+    <color name="colorPrimaryDark">#36323E</color>
+    <color name="colorAccent">#CDCE</color>
+
+    <color name="colorConfirmed">#F81B1B</color>
+    <color name="colorRecovered">#047A09</color>
+    <color name="colorTotalDeaths">#CCBEAECD</color>
+    <color name="colorView">#CC52475C</color>
+    <color name="colorWhite">#fff</color>
+
+</resources>

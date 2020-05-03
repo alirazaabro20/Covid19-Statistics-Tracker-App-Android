@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Covid19 Statistics Track</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+    <string name="title_pak_home">Pakistan</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="country_name">Country Name</string>
+    <string name="pak_details">Pakistan Cases\n Details</string>
+    <string name="today">Today</string>
+    <string name="today_cases_reported">Cases Today</string>
+    <string name="today_deaths_reported">Deaths Today</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="active_string">Active Cases</string>
+    <string name="ciryical_cases">Critical Cases</string>
+    <string name="tests">Total Tests</string>
+    <string name="home_title">Global Cases of\n Corona Virus</string>
+    <string name="cases_per_million">Cases per One Million</string>
+    <string name="developer_name">Developed By Ali Raza Abro</string>
+</resources>
